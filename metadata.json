@@ -1,0 +1,10 @@
+{
+  "name": "Smart Urban Safety Navigation System",
+  "description": "Smart Urban Safety Navigation System with real road routing, live GPS tracking, community safety hazard alerts, street lighting analysis, and transparent route risk scoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
